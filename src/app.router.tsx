@@ -1,5 +1,5 @@
 import { lazy } from "react";
-import { createBrowserRouter, createHashRouter } from "react-router";
+import { createHashRouter } from "react-router";
 import { ShopLayout } from "./shop/layouts/ShopLayout";
 import { HomePage } from "./shop/pages/home/HomePage";
 import { ProductPage } from "./shop/pages/product/ProductPage";
